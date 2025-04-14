@@ -1,5 +1,5 @@
 # Day5
-Exploratory Data Analysis (EDA) on Titanic Dataset# 🧠 Titanic EDA | Data Analyst Internship Task 5
+Exploratory Data Analysis (EDA) on Titanic Dataset# 
 
 ## 📌 Objective
 Perform Exploratory Data Analysis (EDA) on the Titanic dataset to extract key insights using visualization and statistics.
